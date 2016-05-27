@@ -18,8 +18,8 @@ I have a variety of goals to accomplish:
 3. Users can create & save notes.
 4. Provide an interactive map with a "You are here" tag.
 5. Fix any bugs that appear.
-## To run JavaFabledLandz on Android - will update this section within 2 weeks
 
+## To run JavaFabledLandz on Android - will update this section within 2 weeks.
 
 ## To compile Original application - please visit https://github.com/thomaslaurenson/JavaFabledLands.git`
 
@@ -33,7 +33,7 @@ Check the original [JaFL README.txt](http://sourceforge.net/p/flapp/code/HEAD/tr
 
 ## Acknowledgements
 
-All source code is by Jonathan Mann.
+All original source code is by Jonathan Mann.
 
 Book text copyright Dave Morris & Jamie Thomson, 1996.
 
