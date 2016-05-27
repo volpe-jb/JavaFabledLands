@@ -21,7 +21,7 @@ I have a variety of goals to accomplish:
 
 ## To run JavaFabledLandz on Android - will update this section within 2 weeks.
 
-## To compile Original application - please visit https://github.com/thomaslaurenson/JavaFabledLands.git`
+## To compile Original application - please visit https://github.com/thomaslaurenson/JavaFabledLands.git
 
 ## To run JavaFabledLands
 
