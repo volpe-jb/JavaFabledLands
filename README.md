@@ -19,19 +19,19 @@ I have a variety of goals to accomplish:
 4. Provide an interactive map with a "You are here" tag.
 5. Fix any bugs that appear.
 
-## To run JavaFabledLandz on Android - will update this section within 2 weeks.
+#### To run JavaFabledLandz on Android - will update this section within 2 weeks.
 
-## To compile Original application - please visit https://github.com/thomaslaurenson/JavaFabledLands.git
+#### To compile Original application - please visit https://github.com/thomaslaurenson/JavaFabledLands.git
 
-## To run JavaFabledLands
+#### To run JavaFabledLands
 
 JavaFabledLands requires Java 5.0 or newer.
 
-## Usage
+#### Usage
 
 Check the original [JaFL README.txt](http://sourceforge.net/p/flapp/code/HEAD/tree/trunk/README.txt "Java Fabled Lands (JaFL) README.txt")
 
-## Acknowledgements
+### Acknowledgements
 
 All original source code is by Jonathan Mann.
 
